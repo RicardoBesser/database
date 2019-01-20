@@ -12,6 +12,11 @@
                 "vendedor": "Benedito Davi Ramos" 
         },
                         {
+                "produto": "Cenoura",
+                "valor": "R$3,30 / kg",
+                "vendedor": "Benedito Davi Ramos" 
+        },
+                        {
                 "produto": "Repolho",
                 "valor": "R$3,00 / kg",
                 "vendedor": "Osvaldo Matheus Marcelo Assis" 
