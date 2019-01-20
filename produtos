@@ -1,5 +1,20 @@
 {
-  
-  
-  
-  }
+    "messages": [
+        {
+                "produto": "Batata",
+                "valor": "R$3,00 / kg",
+                "vendedor": "Martin Otávio Enrico da Mota" 
+        },
+        
+                {
+                "produto": "Batata",
+                "valor": "R$2,50 / kg",
+                "vendedor": "Benedito Davi Ramos" 
+        },
+                        {
+                "produto": "Couve Flor",
+                "valor": "R$2,50 / kg",
+                "vendedor": "Benício Isaac Theo Mendes" 
+        }
+    ]
+}
