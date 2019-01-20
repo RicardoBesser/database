@@ -12,6 +12,11 @@
                 "vendedor": "Benedito Davi Ramos" 
         },
                         {
+                "produto": "Repolho",
+                "valor": "R$3,00 / kg",
+                "vendedor": "Osvaldo Matheus Marcelo Assis" 
+        },
+                        {
                 "produto": "Couve Flor",
                 "valor": "R$2,50 / kg",
                 "vendedor": "Benício Isaac Theo Mendes" 
