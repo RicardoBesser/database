@@ -1,35 +1,65 @@
 {
     "messages": [
         {
+                "id" = 1,
                 "produto": "Batata",
                 "valor": "R$3,00 / kg",
                 "vendedor": "Martin Otávio Enrico da Mota" 
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         },
         
                 {
+                "id" = 2,
                 "produto": "Batata",
                 "valor": "R$2,50 / kg",
-                "vendedor": "Benedito Davi Ramos" 
+                "vendedor": "Benedito Davi Ramos"
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         },
                         {
+                "id" = 3,        
                 "produto": "Cenoura",
                 "valor": "R$3,30 / kg",
-                "vendedor": "Benedito Davi Ramos" 
+                "vendedor": "Benedito Davi Ramos"
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         },
                         {
+                "id" = 4,        
                 "produto": "Repolho",
                 "valor": "R$3,00 / kg",
-                "vendedor": "Osvaldo Matheus Marcelo Assis" 
+                "vendedor": "Osvaldo Matheus Marcelo Assis",
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         },
                 {
+                "id" = 5,
                 "produto": "Pão",
                 "valor": "R$3,00 / kg",
-                "vendedor": "Martin Otávio Enrico da Mota" 
+                "vendedor": "Martin Otávio Enrico da Mota",
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         },
                         {
+                "id" = 6,
                 "produto": "Couve Flor",
                 "valor": "R$2,50 / kg",
-                "vendedor": "Benício Isaac Theo Mendes"  
+                "vendedor": "Benício Isaac Theo Mendes",
+                "localLat": -34.397, 
+                "localLon": 150.644,
+                "organico": "sim",
+                "entregaDomicilio": "sim"
         }
     ]
 }
